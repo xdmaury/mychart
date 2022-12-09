@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'project-chart';
+  scalewidth = 750;
+  scaleheight = 500;
+
+  
 }
